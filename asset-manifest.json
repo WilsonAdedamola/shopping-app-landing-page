@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shopping-app-landing-page.git/static/css/main.80edb645.css",
+    "main.js": "/shopping-app-landing-page.git/static/js/main.136bc787.js",
+    "static/media/fav1.png": "/shopping-app-landing-page.git/static/media/fav1.406a793349f3d9f3d05d.png",
+    "static/media/hero-image.png": "/shopping-app-landing-page.git/static/media/hero-image.7d3cbcd4d69a7c54ebab.png",
+    "static/media/yellow.png": "/shopping-app-landing-page.git/static/media/yellow.164db3a10da70fbd45ab.png",
+    "static/media/arrivals3.png": "/shopping-app-landing-page.git/static/media/arrivals3.8401152c071062b5d34c.png",
+    "static/media/arrivals1.png": "/shopping-app-landing-page.git/static/media/arrivals1.1532b6e188fad2aaaa1c.png",
+    "static/media/voucher.png": "/shopping-app-landing-page.git/static/media/voucher.eaa8d33486e976d8c91b.png",
+    "static/media/fav2.png": "/shopping-app-landing-page.git/static/media/fav2.a76847d81932d4285b91.png",
+    "static/media/arrivals2.png": "/shopping-app-landing-page.git/static/media/arrivals2.3ec00b3f30dcb0cf4b60.png",
+    "static/media/download-cta.png": "/shopping-app-landing-page.git/static/media/download-cta.1d80af9a0c2c52439ef5.png",
+    "static/media/amazon.png": "/shopping-app-landing-page.git/static/media/amazon.8147eaff712ddbb636a0.png",
+    "static/media/shopify.png": "/shopping-app-landing-page.git/static/media/shopify.bf70fa9caf43cad1e916.png",
+    "index.html": "/shopping-app-landing-page.git/index.html",
+    "main.80edb645.css.map": "/shopping-app-landing-page.git/static/css/main.80edb645.css.map",
+    "main.136bc787.js.map": "/shopping-app-landing-page.git/static/js/main.136bc787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80edb645.css",
+    "static/js/main.136bc787.js"
+  ]
+}
